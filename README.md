@@ -1,0 +1,2 @@
+# monitor
+python, sendmail, ssh
